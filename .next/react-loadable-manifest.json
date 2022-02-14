@@ -1,0 +1,14 @@
+{
+  "..\\..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": "./node_modules/next/dist/pages/_error.js",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__error_js.js"
+    ]
+  },
+  "..\\views\\Test\\index.ts -> ./Test": {
+    "id": "./src/views/Test/Test/index.tsx",
+    "files": [
+      "static/chunks/src_views_Test_Test_index_tsx.js"
+    ]
+  }
+}

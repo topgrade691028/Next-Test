@@ -1,0 +1,34 @@
+@import 'antd/dist/antd.css';
+
+@font-face {
+  font-family: Mochiy;
+  src: url('../assets/font/Mochiy/MochiyPopPOne-Regular.ttf');
+}
+
+
+body {
+  font-family: "Mochiy" !important;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden !important;
+}
+
+.imgaeRadius {
+  border-radius: 50%;
+}
+
+.antdCardLeft {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.antdList {
+  height: 75vh;
+  overflow: scroll;
+  overflow-x: hidden;
+
+}
+
+.antdCardRight {
+  height: 86vh;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
